@@ -1,0 +1,21 @@
+{
+	"event": [
+		{
+			"eventName": "Sam zijn ribbetjes opeten",
+			"eventStart": "2018-04-27",
+			"eventTime": "20:00",
+			"eventEnd": "2018-04-28",
+			"eventEndTime": "04:00",
+			"minAge": "5",
+			"maxAge": "65",
+			"attendee": [
+				{
+					"userName": "Sam Boddikins",
+					"birthday": "1994-03-18",
+					"email": "sam@debodtkins.be",
+					"status": "maybe"
+				}
+			]
+		}
+	]
+}
